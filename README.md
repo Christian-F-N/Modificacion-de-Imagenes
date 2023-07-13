@@ -1,41 +1,41 @@
-# Proyecto de Modificación de Imágenes y Manipulación de Espectros de Color con MATLAB
+# MATLAB Image Modification and Color Spectrum Manipulation Project
 
-Este proyecto tiene como objetivo explorar las posibilidades creativas en el procesamiento de imágenes mediante la modificación de imágenes y la manipulación de espectros de color utilizando MATLAB.
+This project aims to explore creative possibilities in image processing through image modification and color spectrum manipulation using MATLAB.
 
-## Requisitos de Software
+## Software Requirements
 
-- MATLAB instalado en el sistema.
-- Bibliotecas o Toolboxes adicionales según las necesidades del proyecto. Algunas de las Toolboxes comunes para el procesamiento de imágenes en MATLAB incluyen:
-  - Image Processing Toolbox: Proporciona funciones y herramientas para el procesamiento y análisis de imágenes.
-  - Computer Vision Toolbox: Permite el desarrollo de algoritmos y aplicaciones de visión por computadora.
-  - Signal Processing Toolbox: Ofrece funciones para el procesamiento de señales y análisis espectral.
+- MATLAB installed on the system.
+- Additional libraries or toolboxes based on project needs. Some common toolboxes for image processing in MATLAB include:
+  - Image Processing Toolbox: Provides functions and tools for image processing and analysis.
+  - Computer Vision Toolbox: Enables the development of computer vision algorithms and applications.
+  - Signal Processing Toolbox: Offers functions for signal processing and spectral analysis.
   
-## Configuración del Proyecto
+## Project Configuration
 
-1. **Preparación de las imágenes**: Reúne las imágenes que deseas modificar y manipular. Asegúrate de tener los permisos necesarios para utilizar las imágenes en tu proyecto.
+1. **Image Preparation**: Gather the images you want to modify and manipulate. Make sure you have the necessary permissions to use the images in your project.
 
-2. **Importación de imágenes en MATLAB**: Importa las imágenes en MATLAB utilizando las funciones proporcionadas por la Image Processing Toolbox. Puedes utilizar funciones como `imread` para leer imágenes desde archivos en diferentes formatos.
+2. **Importing Images into MATLAB**: Import the images into MATLAB using the functions provided by the Image Processing Toolbox. You can use functions like `imread` to read images from files in different formats.
 
-3. **Manipulación de espectros de color**: Utiliza las funciones y herramientas de MATLAB para manipular los espectros de color de las imágenes. Esto puede incluir ajustes de brillo, contraste, balance de blancos, filtrado espectral, transformaciones de color, entre otros.
+3. **Color Spectrum Manipulation**: Utilize MATLAB functions and tools to manipulate the color spectra of images. This may involve adjustments in brightness, contrast, white balance, spectral filtering, color transformations, among others.
 
-4. **Modificación y transformación de imágenes**: Implementa algoritmos y técnicas de procesamiento de imágenes utilizando MATLAB. Esto puede incluir operaciones como recorte, redimensionamiento, rotación, filtrado, suavizado, segmentación, entre otros. Utiliza las funciones proporcionadas por la Image Processing Toolbox y otras Toolboxes relevantes según sea necesario.
+4. **Image Modification and Transformation**: Implement image processing algorithms and techniques using MATLAB. This may include operations like cropping, resizing, rotation, filtering, smoothing, segmentation, among others. Utilize functions provided by the Image Processing Toolbox and other relevant toolboxes as needed.
 
-5. **Visualización y análisis de resultados**: Utiliza las funciones de MATLAB para visualizar y analizar los resultados de la modificación de imágenes y manipulación de espectros de color. Puedes utilizar funciones como `imshow` para mostrar las imágenes modificadas y funciones de análisis estadístico para evaluar los cambios realizados.
+5. **Visualization and Result Analysis**: Use MATLAB functions to visualize and analyze the results of image modification and color spectrum manipulation. You can use functions like `imshow` to display the modified images and statistical analysis functions to evaluate the changes made.
 
-6. **Exportación de imágenes modificadas**: Exporta las imágenes modificadas utilizando las funciones proporcionadas por MATLAB. Puedes utilizar funciones como `imwrite` para guardar las imágenes en diferentes formatos.
+6. **Exporting Modified Images**: Export the modified images using MATLAB functions. You can use functions like `imwrite` to save the images in different formats.
 
-## Observaciones
+## Notes
 
-- Es importante tener en cuenta las restricciones de derechos de autor al utilizar imágenes de terceros en tu proyecto. Asegúrate de obtener los permisos necesarios y cumplir con las licencias correspondientes.
+- It is important to consider copyright restrictions when using third-party images in your project. Make sure to obtain the necessary permissions and comply with the corresponding licenses.
 
-- MATLAB ofrece una amplia gama de funciones y herramientas para el procesamiento de imágenes. Puedes explorar la documentación oficial y recursos adicionales para obtener más información sobre las capacidades y técnicas avanzadas de procesamiento de imágenes en MATLAB.
+- MATLAB provides a wide range of functions and tools for image processing. You can explore the official documentation and additional resources to learn more about the capabilities and advanced image processing techniques in MATLAB.
 
-- Asegúrate de seguir las mejores prácticas de desarrollo y documentación de código al implementar algoritmos y técnicas de procesamiento de imágenes. Comenta tu código de manera clara y concisa, y utiliza nombres descriptivos para las variables y funciones.
+- Ensure you follow best practices for code development and documentation when implementing image processing algorithms and techniques. Comment your code clearly and concisely, and use descriptive names for variables and functions.
 
-## Contribuciones
+## Contributions
 
-Si deseas contribuir a este proyecto, siéntete libre de hacer fork del repositorio y enviar pull requests con tus mejoras.
+If you wish to contribute to this project, feel free to fork the repository and submit pull requests with your improvements.
 
-## Licencia
+## License
 
-Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para obtener más detalles.
+This project is distributed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
